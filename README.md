@@ -1,2 +1,5 @@
 # hello-world
-Creating hello-world repository
+
+Hi There,
+
+This is kishore. I am learning Git.
